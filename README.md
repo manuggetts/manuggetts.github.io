@@ -21,8 +21,6 @@
   </a>
 </p>
 
-![manu](https://github.com/manuggetts/portfolio/assets/141872152/2d3f3d07-a1a7-47a6-9205-6f65e11084d4)
-
 # Seções 📚
 ✔️ Início <br>
 ✔️ Sobre mim <br>
