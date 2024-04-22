@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Bem-vindo ao meu <a href="https://manuggetts.github.io/portfolio">portfólio</a>! 🚀</b>
+  <b>Bem-vindo ao meu <a href="https://manuggetts.github.io/">portfólio</a>! 🚀</b>
 </h1>
 <br>
 
