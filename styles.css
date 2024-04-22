@@ -408,7 +408,7 @@ body {
     position: relative;
     flex-direction: column;
 
-    background-image: url(./img/img1.jpg);
+    background-image: url(/IMG/img1.jpg);
     background-size: cover;
     background-position: top center;
 
