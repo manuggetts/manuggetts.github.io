@@ -11,6 +11,7 @@
     --color-pink: #d12f7a;
     --color-black: #0c0c0c;
     --color-pink2: #ff4040;
+    --color-blue: #3370a0;
 }
 
 html {
@@ -562,7 +563,15 @@ body {
     border-radius: 4px;
 
     color: var(--color-black);
-    background: var(--color-white);
+    background: var(--color-blue);
+}
+
+.section-subtitle h2 p:nth-child(3) span {
+    padding: 3px 5px;
+    border-radius: 4px;
+
+    color: var(--color-black);
+    background: #ffd846;
 }
 
 .box-about h3 {
