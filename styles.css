@@ -12,6 +12,7 @@
     --color-black: #0c0c0c;
     --color-pink2: #ff4040;
     --color-blue: #3370a0;
+    --color-yellow: #ffdf00;
 }
 
 html {
@@ -563,7 +564,7 @@ body {
     border-radius: 4px;
 
     color: var(--color-black);
-    background: var(--color-blue);
+    background: var(--color-white);
 }
 
 .section-subtitle h2 p:nth-child(3) span {
@@ -571,7 +572,7 @@ body {
     border-radius: 4px;
 
     color: var(--color-black);
-    background: #ffd846;
+    background: var(--color-yellow);
 }
 
 .box-about h3 {
@@ -587,7 +588,7 @@ body {
     border-radius: 4px;
 
     color: var(--color-black);
-    background: var(--color-pink);
+    background: var(--color-blue);
 }
 
 .box-about h4 {
