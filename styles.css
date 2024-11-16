@@ -31,14 +31,18 @@ body {
     align-items: center;
 
     width: 100%;
-
     padding: 15px 30px;
     position: fixed;
 
-    background: 'transparent';
+    background: transparent;
     transition: all .3s ease-out;
 
     z-index: 2;
+}
+
+#header.scrolled {
+    background: #191919;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .header-title {

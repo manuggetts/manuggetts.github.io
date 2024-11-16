@@ -45,16 +45,19 @@ links.forEach(item => {
     })
 })
 
+let resizeTimeout;
 window.addEventListener('resize', () => {
-    swiper.params.slidesPerView = handleWidth();
-    swiper.update();
-})
+    clearTimeout(resizeTimeout);
+    resizeTimeout = setTimeout(() => {
+        swiper.params.slidesPerView = handleWidth();
+        swiper.update();
+    }, 300);
+});
 
 window.addEventListener('scroll', () => {
     if (window.scrollY >= 200) {
-        header.style.background = '#191919'
+        header.classList.add('scrolled');
     } else {
-        header.style.background = 'transparent'
+        header.classList.remove('scrolled');
     }
-
-})
+});
