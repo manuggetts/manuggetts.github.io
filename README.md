@@ -27,7 +27,7 @@
 ✔️ Projetos <br>
 ✔️ Contato
 
-# Linguagens utilizadas 🛠️
+# Linguagens utilizadas para criar o portfólio 🛠️
 ✔️ HTML <br>
 ✔️ CSS <br>
 ✔️ JavaScript <br>
